@@ -1,0 +1,4 @@
+Issues:
+**Please setup VirtualHost
+**If updated wamp server has been used 
+Depracated error will appear - use mysqli instead of mysql
